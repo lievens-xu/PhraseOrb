@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Build output
+/dist/
+/build/
+/.build/
+*.app/
+*.dSYM/
+/AppIcon.iconset/
+
+# Local data and credentials
+.env
+.env.*
+phrases.json
+*-phrases.json
+ui-test-results.txt
